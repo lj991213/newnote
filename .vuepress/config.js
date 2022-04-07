@@ -74,12 +74,13 @@ module.exports = {
     // ],
     "logo": "/logo.png",
     "search": true,
+    "record": '湘ICP备2022005426号',
+    "recordLink": 'https://beian.miit.gov.cn/',
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "feifan",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2022"
   },
   "markdown": {
     "lineNumbers": true
